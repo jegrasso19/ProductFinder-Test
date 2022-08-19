@@ -149,12 +149,12 @@ struct PartNumberView: View {
         
         let partNumbers = self.productFamily.partNumbers.sorted{ $0.code > $1.code }
         
-        List(partNumbers) { partNumber in
-            //ForEach(partNumbers) { (partNumber) in
+        List {
+            ForEach(partNumbers) { (partNumber) in
                 NavigationLink(destination: PartNumberRow(partNumber: partNumber)) {
                     Text("\(partNumber.partNumber)")
                 }
-            //}
+            }
         }
         .navigationTitle("\(productFamily.productFamily)")
         .navigationBarItems(trailing: HomeButtonView() )
