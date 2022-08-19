@@ -1,0 +1,247 @@
+[
+    {
+        "code": "293745652",
+        "partNumber": "160-9013-900",
+        "productFamily": "Product Family 1",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745653",
+        "partNumber": "160-9104-900",
+        "productFamily": "Product Family 1",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745654",
+        "partNumber": "160-9105-900",
+        "productFamily": "Product Family 1",
+        "orderable": false,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745655",
+        "partNumber": "160-9108-900",
+        "productFamily": "Product Family 1",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745656",
+        "partNumber": "160-9109-900",
+        "productFamily": "Product Family 1",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745657",
+        "partNumber": "160-9113-900",
+        "productFamily": "Product Family 2",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745658",
+        "partNumber": "160-9114-900",
+        "productFamily": "Product Family 2",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745659",
+        "partNumber": "160-9115-900",
+        "productFamily": "Product Family 2",
+        "orderable": false,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745660",
+        "partNumber": "160-9116-900",
+        "productFamily": "Product Family 2",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745661",
+        "partNumber": "160-9201-900",
+        "productFamily": "Product Family 2",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745662",
+        "partNumber": "160-9205-900",
+        "productFamily": "Product Family 3",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745663",
+        "partNumber": "160-9211-900",
+        "productFamily": "Product Family 3",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745664",
+        "partNumber": "160-9212-900",
+        "productFamily": "Product Family 3",
+        "orderable": false,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745665",
+        "partNumber": "160-9213-900",
+        "productFamily": "Product Family 3",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745666",
+        "partNumber": "160-9214-900",
+        "productFamily": "Product Family 3",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745667",
+        "partNumber": "160-9215-900",
+        "productFamily": "Product Family 4",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745668",
+        "partNumber": "160-9216-900",
+        "productFamily": "Product Family 4",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745669",
+        "partNumber": "160-9217-900",
+        "productFamily": "Product Family 4",
+        "orderable": false,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745670",
+        "partNumber": "160-9218-900",
+        "productFamily": "Product Family 4",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745671",
+        "partNumber": "160-9300-900",
+        "productFamily": "Product Family 4",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745672",
+        "partNumber": "160-9301-900",
+        "productFamily": "Product Family 5",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745673",
+        "partNumber": "160-9310-900",
+        "productFamily": "Product Family 5",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745674",
+        "partNumber": "160-9320-900",
+        "productFamily": "Product Family 5",
+        "orderable": false,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745675",
+        "partNumber": "160-9501-900",
+        "productFamily": "Product Family 5",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745676",
+        "partNumber": "160-9502-900",
+        "productFamily": "Product Family 5",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745677",
+        "partNumber": "160-9503-900",
+        "productFamily": "Product Family 6",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745678",
+        "partNumber": "160-9504-900",
+        "productFamily": "Product Family 6",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745679",
+        "partNumber": "160-9505-900",
+        "productFamily": "Product Family 6",
+        "orderable": false,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745680",
+        "partNumber": "160-9506-900",
+        "productFamily": "Product Family 6",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745681",
+        "partNumber": "166-0203-907",
+        "productFamily": "Product Family 6",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745682",
+        "partNumber": "166-0203-908",
+        "productFamily": "Product Family 7",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745683",
+        "partNumber": "166-0203-909",
+        "productFamily": "Product Family 7",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745684",
+        "partNumber": "166-0203-910",
+        "productFamily": "Product Family 7",
+        "orderable": false,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745685",
+        "partNumber": "166-0203-911",
+        "productFamily": "Product Family 7",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    },
+    {
+        "code": "293745686",
+        "partNumber": "166-0203-912",
+        "productFamily": "Product Family 7",
+        "orderable": true,
+        "pnDescription": "Part Number Description"
+    }
+]
